@@ -1,6 +1,6 @@
 # Pousada-Secreta
 
-Essa é uma página estática sem nenhuma estilização para responsivo
+#Essa é uma página estática sem nenhuma estilização para responsivo
 
 Link de acesso para o projeto:
 
